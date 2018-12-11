@@ -1,0 +1,14 @@
+D:\Project\salary1\salary1\bin\Debug\salary1.exe.config
+D:\Project\salary1\salary1\bin\Debug\salary1.exe
+D:\Project\salary1\salary1\bin\Debug\salary1.pdb
+D:\Project\salary1\salary1\bin\Debug\salary1.xml
+D:\Project\salary1\salary1\obj\Debug\Project.vbprojAssemblyReference.cache
+D:\Project\salary1\salary1\obj\Debug\salary1.Form1.resources
+D:\Project\salary1\salary1\obj\Debug\salary1.Resources.resources
+D:\Project\salary1\salary1\obj\Debug\salary1.lap2.resources
+D:\Project\salary1\salary1\obj\Debug\Project.vbproj.GenerateResource.cache
+D:\Project\salary1\salary1\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+D:\Project\salary1\salary1\obj\Debug\salary1.exe
+D:\Project\salary1\salary1\obj\Debug\salary1.xml
+D:\Project\salary1\salary1\obj\Debug\salary1.pdb
+D:\Project\salary1\salary1\obj\Debug\salary1.frmLab3.resources

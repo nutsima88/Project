@@ -79,6 +79,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmLab3.Designer.vb">
+      <DependentUpon>frmLab3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLab3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -94,10 +100,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="sale.Designer.vb">
-      <DependentUpon>sale.vb</DependentUpon>
+    <Compile Include="lap2.Designer.vb">
+      <DependentUpon>lap2.vb</DependentUpon>
     </Compile>
-    <Compile Include="sale.vb">
+    <Compile Include="lap2.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
@@ -105,14 +111,17 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmLab3.resx">
+      <DependentUpon>frmLab3.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="sale.resx">
-      <DependentUpon>sale.vb</DependentUpon>
+    <EmbeddedResource Include="lap2.resx">
+      <DependentUpon>lap2.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

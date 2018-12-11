@@ -1,4 +1,4 @@
-﻿Public Class sale
+﻿Public Class lap2
     Private Sub btnCal_Click(sender As Object, e As EventArgs) Handles btnCal.Click
         Dim Computer As Double
         Dim Printer As Double
