@@ -12,3 +12,8 @@ D:\Project\salary1\salary1\obj\Debug\salary1.exe
 D:\Project\salary1\salary1\obj\Debug\salary1.xml
 D:\Project\salary1\salary1\obj\Debug\salary1.pdb
 D:\Project\salary1\salary1\obj\Debug\salary1.frmLab3.resources
+D:\Project\salary1\salary1\obj\Debug\salary1.frmLab5.resources
+D:\Project\salary1\salary1\obj\Debug\salary1.frmJobb4.resources
+D:\Project\salary1\salary1\obj\Debug\salary1.frmJob6.resources
+D:\Project\salary1\salary1\obj\Debug\salary1.frmLab7.resources
+D:\Project\salary1\salary1\obj\Debug\salary1.frmLab8.resources
